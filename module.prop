@@ -1,0 +1,6 @@
+id=rilresetter
+name=RIL Reset Every 30 Seconds
+version=2.0
+versionCode=1
+author=Rainiel Montanez
+description=Auto resets RIL daemon every 3 hours to test signal recovery.
